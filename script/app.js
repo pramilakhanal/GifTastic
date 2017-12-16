@@ -84,4 +84,7 @@ function renderButtons(animalArray,classToAdd,areaToAddTo){
  		})
 
 
+
+
+
  		
